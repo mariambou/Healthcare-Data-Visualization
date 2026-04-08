@@ -1,7 +1,7 @@
 # Healthcare-Data-Visualization
 This project explores the key physiological, behavioral, and demographic factors associated with health risk levels (high vs. low) using a structured healthcare dataset. Through systematic data visualization techniques, the analysis identifies and interprets the determinants that distinguish individuals at elevated health risk from those at lower risk.
 
-### Healthcare Data Visualization Project – Health Risk Factor Analysis
+## Healthcare Data Visualization Project – Health Risk Factor Analysis
 
 ~ Overview :
 The project follows a three-phase exploratory approach:
@@ -10,7 +10,7 @@ The project follows a three-phase exploratory approach:
 - **Multivariate visualizations** to capture complex interactions among multiple factors simultaneously.
 Three sampling methods were tested (simple random, systematic, and stratified sampling). Stratified sampling was selected as the optimal method because it preserves the original proportions of the `health_risk` target variable, ensuring representative and robust statistical comparisons.
 
-## Objectives
+~ Objectives :
 - Identify major physiological risk factors (BMI, weight, age).
 - Analyze the impact of behavioral risk factors (smoking, alcohol consumption, physical exercise, sleep duration).
 - Examine sociodemographic variables (profession, marital status) in relation to health risk.
@@ -43,7 +43,7 @@ Three sampling methods were tested (simple random, systematic, and stratified sa
 - Only sleep duration is measured, not sleep quality or disorders (e.g., apnea, insomnia).
 - The apparent imbalance between risk groups in some visualizations may affect interpretation.
 
-## Repository Structure
+### Repository Structure 
 - `README.md` : Project overview, objectives, key findings, and limitations
 - `data/` : Contains the dataset `Lifestyle_and_Health_Risk_Prediction.csv`
 - `notebooks/` : Contains the Jupyter Notebook with all code (data import, sampling, visualizations)
