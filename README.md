@@ -43,6 +43,9 @@ Three sampling methods were tested (simple random, systematic, and stratified sa
 - Only sleep duration is measured, not sleep quality or disorders (e.g., apnea, insomnia).
 - The apparent imbalance between risk groups in some visualizations may affect interpretation.
 
+Author 
+Data Engineering Student Aspiring Data Analyst | Open to Remote Opportunities
+
 ### Repository Structure 
 - `README.md` : Project overview, objectives, key findings, and limitations
 - `data/` : Contains the dataset `Lifestyle_and_Health_Risk_Prediction.csv`
