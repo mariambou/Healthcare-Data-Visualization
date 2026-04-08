@@ -43,8 +43,6 @@ Three sampling methods were tested (simple random, systematic, and stratified sa
 - Only sleep duration is measured, not sleep quality or disorders (e.g., apnea, insomnia).
 - The apparent imbalance between risk groups in some visualizations may affect interpretation.
 
-Author 
-Data Engineering Student Aspiring Data Analyst | Open to Remote Opportunities
 
 ### Repository Structure 
 - `README.md` : Project overview, objectives, key findings, and limitations
@@ -52,4 +50,8 @@ Data Engineering Student Aspiring Data Analyst | Open to Remote Opportunities
 - `notebooks/` : Contains the Jupyter Notebook with all code (data import, sampling, visualizations)
 - `images/` : Contains all generated visualizations (PNG files): BMI distribution, age comparison, alcohol/smoking/exercise charts, correlation matrix, faceted plots, etc..
 - `requirements.txt` : List of Python dependencies required to run the notebook
-- `.gitignore` : Specifies intentionally untracked files to ignore 
+- `.gitignore` : Specifies intentionally untracked files to ignore
+
+
+### Author 
+`Data Engineering Student Aspiring Data Analyst | Open to Remote Opportunities`
